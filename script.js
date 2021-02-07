@@ -25,6 +25,7 @@ const roundIt = () => {
 const results = document.querySelector("#results");
 results.scrollTop = results.scrollHeight;
 //document.querySelector("#results").scrollTo(0, 1000000);
+// the code above could eventually cause problems if the number gets higher than the one specified
 document.querySelector("#clear").addEventListener("click", () => {
         //document.getElementById("results").reset();
         //document.querySelector("#results").reset();

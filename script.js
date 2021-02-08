@@ -1,4 +1,5 @@
 const calculateIt = () => {
+  // parseInt is converting strings into numbers. parseFloat allows for decimals.
   let firstNumber = parseFloat(document.querySelector("#firstnumber").value);
   let secondNumber = parseFloat(document.querySelector("#secondnumber").value);
   const operator = document.querySelector("#operator").value;

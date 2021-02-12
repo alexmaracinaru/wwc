@@ -1,4 +1,4 @@
 # wwc
-World's worst calculator 😏😊
+World's worst calculator 😏
 
-[And here's the clickable link](https://alexmaracinaru.github.io/wwc/)
+https://alexmaracinaru.github.io/wwc/
